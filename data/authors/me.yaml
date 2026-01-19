@@ -15,7 +15,10 @@ status:
   icon: "☕️"
 role: Graduate student 
 bio: |
-  None for now
+  I am a graduate student in Systems Engineering at the University of Pennsylvania, with a strong background in Computer Science. My work focuses on diffusion models, computer vision, and learning-based system modeling. 
+  I have experience building end-to-end research projects, from mathematical formulation and algorithm design to implementation and evaluation. 
+  I am interested in research problems that connect modeling, optimization, and real-world systems.
+
   
 
 # affiliations:
@@ -143,22 +146,36 @@ education:
       
 
 
-# experience:
-#   - role: Senior AI Research Scientist
-#     org: Meta AI
-#     start: 2020-01-01
+# work:
+#   - role: Head of Activities
+#     org: Volunteer Association (Undergraduate)
+#     start: 2022-09-01
+#     end: 2023-06-30
 #     summary: |
-#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-#     button:
-#       text: View portfolio
-#       url: /
-#       icon: hero/arrow-down-tray
-#   - role: AI Research Intern
-#     org: OpenAI
-#     start: 2019-06-01
-#     end: 2019-12-31
+#       Led planning and execution of campus-wide volunteer programs.
+#       Coordinated event logistics and cross-team collaboration.
+
+#   - role: Mentorship Group Leader
+#     org: Residential College
+#     start: 2022-09-01
+#     end: 2023-06-30
 #     summary: |
-#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#       Organized peer mentoring activities and provided academic guidance
+#       for undergraduate students.
+
+#   - role: Member
+#     org: Student Union (Life & Welfare Department)
+#     start: 2021-09-01
+#     end: 2022-06-30
+#     summary: |
+#       Participated in student welfare initiatives and campus life programs.
+
+#   - role: Member
+#     org: Chinese Students Association (Graduate)
+#     start: 2025-09-01
+#     summary: |
+#       Supported academic and cultural community activities.
+
 
 skills:
   - name: Language

@@ -39,6 +39,21 @@ sections:
     design:
       date_format: 'January 2006'
       is_education_first: true
+
+  - block: collection
+    id: leadership-service
+    content:
+      title: Leadership & Service
+      text: ''
+      filters:
+        folders:
+          - service
+        featured_only: true
+    design:
+      view: service-compact
+
+
+
   - block: resume-skills
     content:
       username: me
@@ -66,7 +81,7 @@ sections:
   #     title: Featured Publications
   #     filters:
   #       folders:
-  #         - publications
+  #         - publicationsresume-exp
   #       featured_only: true
   #   design:
   #     view: article-grid
