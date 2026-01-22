@@ -1,19 +1,22 @@
 ---
-title: Chinese Students and Scholars Association (CSSA) – Member
+title: Chinese Students and Scholars Association at Penn (CSSAP) – Member
 date: 2025-09-01
 featured: true
-
+weight: 4
+show_author_links: false
+share: false
 summary: |
   Participated in student community service and event organization,
   supporting the well-being and integration of Chinese students.
 
 tags:
-  - Student Service
-  - Community Engagement
+  - Student Representation
+  - Campus Service
+  - Leadership
 ---
 
 ## Role
-**Member**, Chinese Students and Scholars Association (CSSA)  
+**Member**, Chinese Students and Scholars Association at Penn (CSSAP)  
 *Sep 2025 – Present*
 
 ## Responsibilities & Contributions

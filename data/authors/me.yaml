@@ -15,9 +15,8 @@ status:
   icon: "☕️"
 role: Graduate student 
 bio: |
-  I am a graduate student in Systems Engineering at the University of Pennsylvania, with a strong background in Computer Science. My work focuses on diffusion models, computer vision, and learning-based system modeling. 
-  I have experience building end-to-end research projects, from mathematical formulation and algorithm design to implementation and evaluation. 
-  I am interested in research problems that connect modeling, optimization, and real-world systems.
+  I am a graduate student in Systems Engineering at the University of Pennsylvania, with a B.S. in Computer Science from ShanghaiTech University.
+  I have research experience in diffusion models, computer vision, robotic manipulation, and molecular drug design. My current interests focus on world models, computer vision, and artificial intelligence.
 
   
 
@@ -49,9 +48,9 @@ links:
     url: https://github.com/caiyf03
     label: GitHub
 
-  - icon: chat-bubble-left-right
-    url: https://qm.qq.com/cgi-bin/qm/qr?k=2045336392
-    label: "QQ: 2045336392@qq.com"
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/yifan-cai-4b4a4a33a/
+    label: LinkedIn
 
   - icon: brands/weixin
     url: ""
@@ -190,11 +189,17 @@ skills:
         level: 3
       - label: JAVA
         level: 4
-  - name: Research 
+  - name: AI / ML
     items:
-      - label: Machine Learning
+      - label: Diffusion Models
         level: 5
-      - label: Software Design
+      - label: Computer Vision
+        level: 4
+      - label: Reinforcement Learning
+        level: 4
+      - label: World Models
+        level: 3
+      - label: Probabilistic Models
         level: 3
   
 
@@ -203,12 +208,12 @@ languages:
     level: 5
     label: Native
   - name: English
-    level: 4
+    level: 4.5
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy

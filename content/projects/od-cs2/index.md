@@ -1,11 +1,11 @@
 ---
 title: "Object Detection in Counter-Strike 2"
-date: 2024-12-01T00:00:00Z
+date: 2024-01-22T00:00:00Z
 
 summary: "Applying and comparing object detection algorithms in Counter-Strike 2 for reliable player/weapon detection under complex in-game scenarios."
 tags: ["Computer Vision", "Object Detection", "Deep Learning", "CS2"]
 featured: true
-
+share: false
 links:
   - name: Code
     url: "https://github.com/caiyf03/The-Application-and-Comparison-of-Object-Detection-Algorithm-in-Counter-Strike-2"
@@ -25,26 +25,45 @@ image:
 - Yu Shi
 
 ## Overview
-This project explores the **application and comparison of modern object detection algorithms** in the context of **Counter-Strike 2 (CS2)** gameplay imagery. It includes:
-
-- Dataset preparation from CS2 gameplay
-- Training and evaluation of multiple object detection models
-- Quantitative and qualitative comparisons
+This project investigates the application of real-time object detection in Counter-Strike 2 (CS2). We build a custom in-game dataset and systematically compare multiple detection frameworks to evaluate their accuracy, speed, and practicality in dynamic gaming scenarios. Beyond benchmarking, we demonstrate how detection results can be integrated into gameplay-related applications such as distance estimation and automated aiming.
 
 ## Methods
-We evaluated several detection architectures including:
+We implement and compare YOLOv7, Faster R-CNN, and SSD.
+Key components include:
 
-- **YOLOv5 / YOLOv8**
-- **Faster R-CNN**
-- **SSD**
-- Other variants (as implemented in the repository)
+-Construction of a custom VOC-style CS2 dataset from gameplay footage
 
-The evaluation reports both detection accuracy and run-time performance in diverse CS2 scenes.
+-Model training and evaluation under identical settings
 
-## Results
-- Precision / recall results on annotated CS2 frames
-- Visual comparisons of detection output overlays
-- Per-class metrics for players, weapons, and other targets
+-Preprocessing and data augmentation for difficult scenes
+
+-Ensemble-style bounding box fusion using confidence weighting and clustering
+
+
+## Key Features
+-Custom-built CS2 object detection dataset
+
+-Comparative study of one-stage vs. two-stage detectors
+
+-Model ensemble via weighted bounding box averaging
+
+-Real-time in-game deployment with screen capture
+
+-Applications including auto-aiming and target distance estimation
 
 ---
+<figure style="text-align: center; margin-bottom: 2rem;">
+  <img src="1.png"
+       alt=""
+       style="width: 100%; max-width: 650px;" />
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+  </figcaption>
+</figure>
+<figure style="text-align: center; margin-bottom: 2rem;">
+  <img src="2.png"
+       alt=""
+       style="width: 100%; max-width: 650px;" />
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+  </figcaption>
+</figure>
 

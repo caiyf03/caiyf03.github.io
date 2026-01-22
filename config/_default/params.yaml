@@ -174,7 +174,7 @@ hugoblox:
     suggestions: []
     # Quick action shortcuts in search modal
     quick_actions: []
-
+  
   # ────────────────────────────────────────────────────────────────────────────
   # COMMENTS
   # User comments system
@@ -285,3 +285,6 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+  assets:
+    custom_css:
+      - css/custom.css

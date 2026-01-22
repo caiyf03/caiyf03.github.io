@@ -2,6 +2,8 @@
 title: Shangdao College (ShanghaiTech University) – Mentorship Group Leader
 date: 2021-09-01
 featured: true
+weight: 2
+share: false
 
 summary: |
   Coordinated college-level academic and mentoring activities, supporting
@@ -9,8 +11,9 @@ summary: |
   and students.
 
 tags:
-  - Mentorship
+  - Student Representation
   - Academic Service
+  - Campus Service
   - Leadership
 
 image:
@@ -25,5 +28,4 @@ ShanghaiTech University
 ## Responsibilities & Contributions
 - Organized **college-level lectures and academic events**, supporting intellectual and community engagement.
 - Assisted faculty members in **monitoring student well-being**, with a focus on mental health awareness and academic development.
-- Provided mentoring and guidance on academic planning and early research interests.
 - Acted as a **liaison between students and faculty**, facilitating communication and feedback within the residential college system.

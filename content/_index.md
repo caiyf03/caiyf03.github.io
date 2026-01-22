@@ -49,6 +49,9 @@ sections:
         folders:
           - service
         featured_only: true
+      order:
+        by: weight
+        direction: asc
     design:
       view: service-compact
 
@@ -68,11 +71,17 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research explores **diffusion-based generative models as world models**
+        for perception, prediction, and decision-making.
+        I focus on three closely related directions:
+        - **Diffusion-based image restoration**, including controllable inpainting and completion.
+        - **Generative diffusion models for small-molecule drug design**, guided by structured and non-differentiable objectives.
+        - **World models for robotic manipulation**, learning latent dynamics that support planning and control.
+        
+        Across these settings, my broader goal is to understand how **generative 
+        models** can bridge perception and action by
+        providing rich, structured representations of the environment.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   # - block: collection

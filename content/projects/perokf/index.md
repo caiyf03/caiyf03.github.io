@@ -1,11 +1,11 @@
 ---
 title: "PERoKF: Physics-Enhanced Super-Resolution of Kolmogorov Flow"
-date: 2024-12-01T00:00:00Z
+date: 2025-12-19T00:00:00Z
 
 summary: "Single-frame fluid super-resolution with physics-consistency loss and physics-derived features"
-tags: ["Fluid Dynamics", "Super-Resolution", "Diffusion Models", "FNO", "Physics-Informed ML"]
+tags: ["Fluid Dynamics", "Super-Resolution", "Diffusion Models", "FNO", "ML"]
 featured: true
-
+share: false
 links:
   - name: Code
     url: "https://github.com/caiyf03/PERoKF"
@@ -24,9 +24,9 @@ image:
   preview_only: false
 ---
 ## Team
-- YiFan Cai (leader)
-- FanHao Bu
-- PeiJun Xu
+- YiFan Cai
+- YiRan Hu
+- JiaCheng Zhu
 
 ## Overview
 **PERoKF** studies how to inject physics priors into modern neural networks for **single-frame** super-resolution of 2D Kolmogorov flow—without requiring temporal supervision. The goal is to recover fine-scale turbulent structures lost by downsampling.
@@ -67,3 +67,17 @@ We evaluate four model families (all operating on bicubic-upsampled LR inputs an
 - Training configs and scripts are included in the repository.
 - Visualization scripts compare HR/LR/reconstruction and energy spectra.
 
+<figure style="text-align: center; margin-bottom: 2rem;">
+  <img src="1.png"
+       alt=""
+       style="width: 100%; max-width: 650px;" />
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+  </figcaption>
+</figure>
+<figure style="text-align: center; margin-bottom: 2rem;">
+  <img src="2.png"
+       alt=""
+       style="width: 100%; max-width: 650px;" />
+  <figcaption style="margin-top: 0.5rem; font-size: 0.9rem; color: #555;">
+  </figcaption>
+</figure>

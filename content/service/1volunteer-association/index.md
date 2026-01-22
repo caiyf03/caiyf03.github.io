@@ -2,6 +2,8 @@
 title: Volunteer Association (ShanghaiTech University) – Head of Activities Department
 date: 2021-09-01 
 featured: true
+weight: 1
+share: false
 
 summary: |
   Led and coordinated multi-year volunteer programs at ShanghaiTech University,
@@ -10,7 +12,8 @@ summary: |
 tags:
   - Leadership
   - Volunteering
-  - Community Service
+  - Campus Service
+  - Student Representation
 
 image:
   caption: Volunteer activities and community outreach
@@ -24,9 +27,9 @@ ShanghaiTech University
 ## Responsibilities & Contributions
 - Led operations of the **Shanghai Library Volunteer Service Station**, providing on-site public service support.
 - Managed the **Shanghai Astronomy Museum volunteer docent team**, coordinating training and scheduling.
-- Organized and led the **Shanghai Marathon 2022 university volunteer team**, overseeing recruitment, task allocation, and on-site coordination.
+- Organized and led the **Shanghai Marathon 2022 university volunteer team**, task allocation, and on-site coordination.
 - Initiated and coordinated **community outreach teaching programs**, organizing university volunteers to deliver educational activities for kindergarten children.
 
-## Gallery
+<!-- ## Gallery
 ![Volunteer Service – Library](/media/service/volunteer1.jpg)
-![Volunteer Service – Community Outreach](/media/service/volunteer2.jpg)
+![Volunteer Service – Community Outreach](/media/service/volunteer2.jpg) -->

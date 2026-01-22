@@ -2,6 +2,8 @@
 title: Student Union (ShanghaiTech University) – Member, Life & Welfare Department
 date: 2021-09-01
 featured: true
+weight: 3
+share: false
 
 summary: |
   Served as a student representative in campus life and welfare affairs,
@@ -22,6 +24,5 @@ Student Union, ShanghaiTech University
 
 ## Responsibilities & Contributions
 - Assisted in organizing **campus-wide cultural and performance events**, including New Year Gala, Spring Festival Gala, and themed social events.
-- Represented students in **monitoring the quality and safety of campus dining halls and retail facilities**.
-- Acted as a **student liaison for residential building management**, supporting coordination between students and dormitory administration.
+- Represented students in **monitoring campus dining and retail operations**, and **coordinated with residential building management to address student needs and concerns**.
 - Participated in **regular communication with university administration**, conveying student feedback and advocating for student welfare and rights.
