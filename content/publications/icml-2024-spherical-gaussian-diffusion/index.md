@@ -2,9 +2,9 @@
 title: "Guidance with Spherical Gaussian Constraint for Conditional Diffusion"
 
 authors:
-  - "J. Yu"
-  - "J. Wang"
-  - "Y. Shi"
+  # - "J. Yu"
+  # - "J. Wang"
+  # - "Y. Shi"
   - me
 
 date: "2024-01-01T00:00:00Z"
