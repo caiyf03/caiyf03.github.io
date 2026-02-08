@@ -8,9 +8,9 @@ featured: true
 share: false
 links:
   - name: Code
-    url: "https://github.com/caiyf03/APPLICATION-OF-FEM-IN-SOLVING-PDE-CONSTRAINED-OPTIMIZATION-FOR-HEAT-CONDUCTION-PROBLEM"
+    url: "https://github.com/caiyf03/PDE-Constrained-Heat-Optimization"
   - name: Report (PDF)
-    url: "https://github.com/caiyf03/APPLICATION-OF-FEM-IN-SOLVING-PDE-CONSTRAINED-OPTIMIZATION-FOR-HEAT-CONDUCTION-PROBLEM/blob/main/computerscience%20(Finalversion).pdf"
+    url: "https://github.com/caiyf03/PDE-Constrained-Heat-Optimization/blob/main/computerscience%20(Finalversion).pdf"
 
 image:
   caption: ""
